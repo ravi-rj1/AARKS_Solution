@@ -10,12 +10,12 @@
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-envelope" aria-hidden="true"></i> </div>
               <p class="uppercase_text">EMAIL SUPPORT: </p>
-              <a href="#">workwithravi.rj@gmail.com</a>
+              <a href="mailto:support@aarkssolution.ac.in">support@aarkssolution.ac.in</a>
             </div>
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-phone" aria-hidden="true"></i> </div>
               <p class="uppercase_text">CALL HOTLINE: </p>
-              <a href="#">+91 8434107008</a>
+              <a href="tel:+919988776655">+91 9988776655</a>
             </div>
             <div class="social-follow">
               <ul>
